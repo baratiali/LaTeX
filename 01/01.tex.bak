@@ -12,6 +12,12 @@ This is my first \LaTeX\ code.%Hardreturne
 
 A rectangle has side lengths of $(x+1)$ and $(x+3)$
 
-The equation ${A(x)= x^2+4x+3}$ gives the area of the rectangle.
+The equation ${A(x)= x^2+4x+3}$ gives the area of the rectangle.%{}keeps formula in a line
+
+
+
+The equation $${A(x)= x^2+4x+3}$$ gives the area of the rectangle.%$$ $$ take the formula in center 
+
 
 \end{document}
+wyvjo6-jovKib-wasfen
