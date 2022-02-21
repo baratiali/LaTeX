@@ -1,0 +1,17 @@
+\documentclass[11pt]{article}
+
+\begin{document}
+
+Hello world!\\ %softreturne
+This is my first LaTex code.\\
+A rectangle has side lengths of (x+1) and (x+3)\\
+
+Hello world!
+
+This is my first \LaTeX\ code.%Hardreturne
+
+A rectangle has side lengths of $(x+1)$ and $(x+3)$
+
+The equation ${A(x)= x^2+4x+3}$ gives the area of the rectangle.
+
+\end{document}
